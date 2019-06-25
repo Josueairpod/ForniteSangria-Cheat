@@ -1,23 +1,25 @@
+![Fortnite Sangria](frefrtnithck.jpg)
+
 FortniteSangria -
-Completely open-source Fortnite hack, working with latest patch, developed by our team over holidays.
-Will continue to update the code every week.
+    Completely open-source Fortnite hack, working with latest patch, developed by our team over holidays.
+    Will continue to update the code every week.
 
 Features :
-Fully functional ESP - Lines aligned to target hitbox allowing for easier auto-aim.
-Smooth auto-aim, you can alter the code to assign your own keybind for this. Default is `Mouse4`
-Anti-detection methods - multiple methods used making this virtually untraceable, even while being spectated.
-Easy silent-injection method - Manual mapping of the cheat into game memory. Undetectable.
-No need to disable PatchGuard! Unlike most major paid cheat providers, this cheat uses an advanced hooking mechanism to achieve it's goal.
-
+    Fully functional ESP - Lines aligned to target hitbox allowing for easier auto-aim.
+    Smooth auto-aim, you can alter the code to assign your own keybind for this. Default is `Mouse4`
+    Anti-detection methods - multiple methods used making this virtually untraceable, even while being spectated.
+    Easy silent-injection method - Manual mapping of the cheat into game memory. Undetectable.
+    No need to disable PatchGuard! Unlike most major paid cheat providers, this cheat uses an advanced hooking mechanism to achieve it's goal.
 
 
 Method :--
-Download the repo.
-Using Visual Studio 2019 open the solution and retarget to your Windows SDK, then rebuild. If any issues arise, ensure you meet the correct dependencies.
-Or use one of the pre-compiled binaries included in the bin\ folder.
+    Download the repo.
+    Using Visual Studio 2019 open the solution and retarget to your Windows SDK, then rebuild. 
+    If any issues arise, ensure you meet the correct dependencies.  
+Or use the pre-compiled binary included in the bin\ folder.
 
-You must run the executable whilst in an ACTUAL game that's started, not beforehand.
-Use the assigned key to open the menu and num-pad to control it. F2 is your panic button.
+You must run the executable whilst in an ACTUAL game that's -started- , not beforehand. Else you will crash.
+Use the assigned key (F8) to open the menu and num-pad to control it. F2 is your panic button.
 
 Important! -
 AV's are likely to flag this as a False Positive, similar to Cheat Engine. Either create an exclusion or disable for the duration of the game.
